@@ -1,3 +1,24 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">I'm Sarwan Yadav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+  
+
+- 🔭 I’m currently working on [Skill Improver 😎 ](https://github.com/sarwanboi/Skill-Improver.github.io)  
+  
+
+- 🌱 I’m currently learning Python and HTML  
+  
+
+- ❓ Ask me about anything related to Python and related technologies  
+  
+
+- ⚡ Fun fact: I use tabs over spaces  
+  
+
+<br/>  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sarwanyadavup32) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sarwan_._) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rangersarwan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rangersarwan) 
