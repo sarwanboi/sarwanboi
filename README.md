@@ -14,12 +14,25 @@
   
 
 - ❓ Ask me about anything related to Python and related technologies  
-  
+
+
+- 👨‍💻 All of my projects are available at [https://github.com/sarwanboi/](https://github.com/sarwanboi/)
+
+
+- 📫 How to reach me **rangersarwan@gmail.com**
+
 
 - ⚡ Fun fact: I use tabs over spaces  
   
 
+<br/>
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarwanboi" alt="sarwanboi" /></a> </p>
+
+
 <br/>  
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sarwanyadavup32) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sarwan_._) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rangersarwan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rangersarwan) 
