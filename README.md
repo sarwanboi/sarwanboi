@@ -6,7 +6,7 @@
 
 ### <div align="center">I'm Sarwan Yadav, a full-time full-stack developer 👨‍💻 working from home since 2020 🚀</div>
 
-<hr>
+
 <br/>  
 
 - 🔭 I’m currently working on [Skill Improver 😎 ](https://github.com/sarwanboi/Skill-Improver.github.io)  
