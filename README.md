@@ -5,7 +5,7 @@
 
 <br/>  
 
-- 🔭 I’m currently working on [Skill Improver 😎 ](https://github.com/sarwanboi/Skill-Improver.github.io)  
+- 🔭 I’m currently working on [TypeBlitz 😎 ](https://github.com/sarwanboi/TypeBlitz)  
   
 
 - 🌱 I’m currently learning Python and HTML  
